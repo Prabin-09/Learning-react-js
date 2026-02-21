@@ -1,1 +1,1 @@
-This is the readme file for learning react projectsss
+This is the readme file for learning react projects
